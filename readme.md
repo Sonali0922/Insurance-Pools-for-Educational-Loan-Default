@@ -5,6 +5,8 @@ The "Insurance Pools for Educational Loan Default" project aims to create a dece
 
 ## Contract Address
 0x4FcBe41479cf370B8Bc203B8b202FdE037100346
+![Screenshot 2024-12-21 143411](https://github.com/user-attachments/assets/9fbc9fab-a669-4071-8b63-b69e2bdb9417)
+
 
 ## Project Vision
 Our vision is to democratize education financing by building a robust and transparent insurance system. By reducing the risks for lenders, we aim to make education loans more accessible and affordable for students worldwide, fostering a culture of higher education and skill development.
